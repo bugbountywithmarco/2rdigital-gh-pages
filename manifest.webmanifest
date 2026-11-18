@@ -1,0 +1,27 @@
+{
+  "name": "2R Digital Backoffice",
+  "short_name": "Backoffice 2R",
+  "description": "Sistema de gestão 2R Digital — CRM, Mensagens e mais.",
+  "lang": "pt-BR",
+  "id": "/",
+  "start_url": "/#/crm/inbox",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#282f4d",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/2rdigital-logo.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    }
+  ]
+}
